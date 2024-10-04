@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  overflow: auto;
+  background-color: #e5e7eb;
+}
+.layout {
+  width: 375px;
+  margin: auto;
+}
